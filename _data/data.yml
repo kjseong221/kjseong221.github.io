@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: kjseong221@naver.com
-    phone: 010-3720-1696
+    phone: 010-3702-1696
     timezone: #America/Cancun Timezone
     citizenship:
     website: #blog.webjeda.com #do not add http://
@@ -23,7 +23,7 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: #'@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
